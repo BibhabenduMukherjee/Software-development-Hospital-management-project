@@ -2,9 +2,9 @@
 
 ## Contributers
 
-- [Bibhabendu Mukherjee](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [Souvik Shit](https://github.com/matiassingers/awesome-readme)
-- [Soham Chakrabortty](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- [Bibhabendu Mukherjee](https://github.com/BibhabenduMukherjee)
+- [Souvik Shit](https://github.com/souvik2001shit)
+- [Soham Chakrabortty](https://github.com/milky-way2)
 
 ## Used technology
 
