@@ -1,8 +1,19 @@
 WELLCOME
 this is hsm project
 #added
+main
 
 BIBHABENDU MUKHERJEE | CSE C | 12500120166
 _____________________________________
 
 Souvik Shit | CSE-C | 12500120126
+
+______________________________________________
+
+BIBHABENDU MUKHERJEE | CSE C | 12500120166
+______________________________________________
+
+SOHAM CHAKRABORTTY   | CSE-C | 12500120158
+
+______________________________________________
+ main
