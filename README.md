@@ -36,4 +36,11 @@ We are try build a simple Hospital Management System that includes some I/O call
 EJS simply stands for Embedded Javascript. It is a simple templating language/engine that lets its user generate HTML with plain javascript
 
 
+## Database 
+
+We use mysql as a database.MySQL is an open-source relational database management system. 
+
+
+
+
 
