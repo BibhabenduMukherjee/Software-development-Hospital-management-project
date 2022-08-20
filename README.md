@@ -31,3 +31,9 @@ I/O model specially designed for building Scalable Network Application.
 We are try build a simple Hospital Management System that includes some I/O call for fetching data , updating data 
 , user varificarion that's way we want non-blocking system Node js is pretty much handy for that.
 
+
+###  What is EJS
+EJS simply stands for Embedded Javascript. It is a simple templating language/engine that lets its user generate HTML with plain javascript
+
+
+
