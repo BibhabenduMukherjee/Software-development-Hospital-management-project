@@ -44,7 +44,27 @@ We use mysql as a database.MySQL is an open-source relational database managemen
 
 ## Screenshots
 
+### visible usecase diagram
 ![App Screenshot](https://cdn.sanity.io/images/ut0bz4g6/production/ec324f4d1fdd408f880fde0a4e04a69a1f4013b0-1050x754.png)
+
+### invisible usecase diagram
+![App Screenshot](https://cdn.sanity.io/images/ut0bz4g6/production/f5730552cbd0b63533c764caa0db622103b6e91d-1332x870.png)
+
+
+### usecase diagram for signup
+![App Screenshot](https://cdn.sanity.io/images/ut0bz4g6/production/a226b21545dca547653bb7eb1c95a689021df6b9-1196x1008.png)
+
+
+### usecase diagram for authantication
+![App Screenshot](https://cdn.sanity.io/images/ut0bz4g6/production/757c3ec73d697443a596ff28b3e138524c677147-1654x1130.png)
+
+
+
+### usecase diagram for authantication
+![App Screenshot](https://cdn.sanity.io/images/ut0bz4g6/production/5a2c6f38f1fdde719df3295ccb09f17e0d8238ef-1830x902.png)
+
+
+
 
 
 
