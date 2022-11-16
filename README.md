@@ -60,7 +60,7 @@ We use mysql as a database.MySQL is an open-source relational database managemen
 
 
 
-### usecase diagram for authantication
+### diagram for DataBase Models
 ![App Screenshot](https://cdn.sanity.io/images/ut0bz4g6/production/5a2c6f38f1fdde719df3295ccb09f17e0d8238ef-1830x902.png)
 
 
